@@ -23,7 +23,7 @@
   "author": "Saket Kumar",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "1.1.3",
     "query-string": "^6.13.6"
   }
 }
